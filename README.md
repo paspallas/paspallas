@@ -1,5 +1,5 @@
 - Hi, I’m @paspallas
-- My interests range from game development, specially tools programming for retro systems, to automation, DSLs and design patterns.
+- My interests range from game development, specially tools programming for retro systems, to automation, DSLs and Compilers.
 - I have a knack for learning the inner workings of software systems down to the details.
 - I enjoy tinkering with microcontrollers and low level stuff in general.
 - I ocassionally hack old games for fun.
